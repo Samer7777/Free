@@ -1,0 +1,37 @@
+:root {
+  --main-color: #dc392d;
+  --transition: 0.3s ease;
+}
+.main_color {
+  color: var(--main-color);
+}
+.hero_section {
+  height: 50vh;
+  background: url("../img/news2.jpg");
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  color: #fff;
+  position: relative;
+}
+.hero_section .container {
+  position: relative;
+  z-index: 2;
+}
+.hero_section .container h1 {
+  font-weight: bold;
+  font-size: 3em;
+  letter-spacing: -1px;
+}
+.hero_section::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.69);
+}

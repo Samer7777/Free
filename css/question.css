@@ -1,0 +1,27 @@
+:root {
+  --main-color: #dc392d;
+  --transition: 0.3s ease;
+}
+.accordion-button:focus {
+  z-index: 3;
+  border-color: #86b7fe;
+  outline: 0;
+  box-shadow: none;
+  background: var(--main-color);
+  color: #fff;
+}
+.accordion-button:not(.collapsed) {
+  color: #fff;
+  background-color: var(--main-color);
+  box-shadow: none;
+}
+.accordion-button:not(.collapsed)::after {
+  filter: invert(1);
+}
+
+.hero_section.question {
+  height: 50vh;
+  background: url("../img/question2.jpg");
+  background-position: center;
+  background-size: cover;
+}

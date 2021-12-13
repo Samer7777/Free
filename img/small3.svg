@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="53px" viewBox="0 0 53 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3">
+            <rect id="Rectangle" x="0" y="0" width="55" height="55"></rect>
+            <rect id="Rectangle" fill="#EFF3FF" x="0" y="0" width="43" height="43"></rect>
+            <g id="011-browser" transform="translate(16.000000, 16.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#5385FF" x="0" y="0" width="36.7575" height="36.7575" rx="2"></rect>
+                <rect id="Rectangle" fill="#3167EB" x="0" y="0" width="36.7575" height="7.605"></rect>
+                <circle id="Oval" fill="#6290FF" cx="3.15" cy="4.05" r="1.35"></circle>
+                <circle id="Oval" fill="#6290FF" cx="6.75" cy="4.05" r="1.35"></circle>
+                <circle id="Oval" fill="#6290FF" cx="10.35" cy="4.05" r="1.35"></circle>
+                <rect id="Rectangle" fill="#FFCB5A" x="3.6" y="10.8" width="13.5" height="9.9"></rect>
+                <rect id="Rectangle" fill="#FFCB5A" x="19.8" y="10.8" width="13.5" height="9.9"></rect>
+                <rect id="Rectangle" fill="#FFCB5A" x="3.6" y="23.4" width="13.5" height="9.9"></rect>
+                <rect id="Rectangle" fill="#FFCB5A" x="19.8" y="23.4" width="13.5" height="9.9"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
