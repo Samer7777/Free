@@ -319,6 +319,13 @@ a {
   -ms-transition: var(--transition);
   -o-transition: var(--transition);
 }
+@media (max-width: 767px) {
+  .img-fluid.h-100.rounded-start {
+    max-height: 200px !important;
+    width: 100%;
+    min-height: 200px !important;
+  }
+}
 /**************news_section style***************/
 
 /**************our_team style***************/
