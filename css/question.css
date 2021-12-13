@@ -25,3 +25,9 @@
   background-position: center;
   background-size: cover;
 }
+.hero_section.location {
+  height: 50vh;
+  background: url("../img/location.jpg");
+  background-position: center;
+  background-size: cover;
+}
